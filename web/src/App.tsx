@@ -10,12 +10,10 @@ import { primary, secondary, success, error } from "styles/Colors";
 
 const theme = createMuiTheme({
   palette: {
-    type: "dark",
     primary: primary,
     secondary: secondary,
     success: success,
     error: error,
-    
   },
 });
 
