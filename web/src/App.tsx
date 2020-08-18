@@ -11,6 +11,7 @@ import LoginPage from "pages/LoginPage";
 
 const theme = createMuiTheme({
   palette: {
+    type: "dark",
     primary: primary,
     secondary: secondary,
     success: success,
